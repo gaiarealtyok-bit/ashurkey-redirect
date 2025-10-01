@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://linqapp.com/ashur", "permanent": true }
+  ]
+}
